@@ -1,0 +1,9 @@
+baseURL = "https://danb91.github.io/"
+languageCode = "en-us"
+title = "Dan's Devlog"
+theme = "PaperMod"
+
+[params]
+  ShowCodeCopyButtons = true
+  ShowReadingTime = true
+  comments = true

@@ -1,0 +1,11 @@
+:root {
+  --main-width: 1000px;   /* default is 720px; widen to taste */
+}
+
+/*
+.post-content pre code,
+.post-content code {
+  font-family: ui-monospace, Menlo, "SF Mono", monospace;
+  font-size: 0.85em;
+}
+*/
