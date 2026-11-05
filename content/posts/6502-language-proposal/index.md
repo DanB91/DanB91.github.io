@@ -1881,4 +1881,4 @@ spr0            .byte $00, $7F, $00
 
 I hope you can see how such a language could be useful.  If there is just one person out there who could make this language (or similar) a reality, I’d consider this post a smashing success.
 
-Please let me know what you think in the comments below or reach out to me at <dan@boksos.com>.  Thanks for reading!
+Please let me know what you think or if you have any questions in the comments below or reach out to me at <dan@boksos.com>.  Thanks for reading!
