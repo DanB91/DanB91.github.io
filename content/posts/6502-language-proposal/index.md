@@ -1055,7 +1055,7 @@ if \Z {
 
 //Or could be rewritten as
 
-A = my_var; if \Z {
+if A = my_var; \Z {
     //executed if A is 0
 }
 ```
@@ -1063,7 +1063,7 @@ A = my_var; if \Z {
 As you can see, you can specify a flag by using the backslash followed by the flag name.  You can also reference by flag number rather than name.  E.g. `\Z`, which is bit 1 of the processor flags, can also be written as `\P1` like so:
 
 ```odin
-A = my_var; if \P1 {
+if A = my_var; \P1 {
     //executed if A is 0
 }
 ```
